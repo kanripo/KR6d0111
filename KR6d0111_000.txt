@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大薩遮尼乾子所說經
+#+DATE: 2015-08-30 19:50:02.264435
+#+PROPERTY: JUAN 0
