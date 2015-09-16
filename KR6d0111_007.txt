@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:01.833099
+#+DATE: 2015-08-30 19:50:07.217127
 #+TITLE: 大薩遮尼乾子所說經
 #+PROPERTY: CBETA_ID T09n0272
 #+PROPERTY: ID KR6d0111
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0272
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6d0111_T_007-0348a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《大薩遮尼乾子所說經》卷第七¶
+《大薩遮尼乾子所說經》卷第七¶
 ¶
 元魏天竺三藏菩提留支譯¶
 
-之二
-:PROPERTIES:
-:head: 如來無過功德品第八之二
-:END:
-¶
+如來無過功德品第八之二¶
 
 王言：「大師！何者如來自在？」
 
