@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:01.731647
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:35
 #+TITLE: 大薩遮尼乾子所說經
 #+PROPERTY: CBETA_ID T09n0272
 #+PROPERTY: ID KR6d0111
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0272
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6d0111_T_004-0332c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6d0111_T_004-0332c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大薩遮尼乾子所說經》卷第四¶
+《大薩遮尼乾子所說經》卷第四¶
 ¶
 元魏天竺三藏菩提留支譯¶
 
-之二
-:PROPERTIES:
-:head: 王論品第五之二
-:END:
-¶
+** 王論品第五之二¶
 
 王言：「大師！於何時中，諸小王等行王論法？」¶
 
