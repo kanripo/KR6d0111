@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:01.703387
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:35
 #+TITLE: 大薩遮尼乾子所說經
 #+PROPERTY: CBETA_ID T09n0272
 #+PROPERTY: ID KR6d0111
@@ -16,8 +16,8 @@
 ¶
 元魏天竺三藏菩提留支譯¶
 
-5王論品
-之一
+* 5王論品
+** 之一
 :PROPERTIES:
 :head: 王論品第五之一
 :END:
